@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Dockerlabs - Break my SSH.md",
+                "file": "Dockerlabs - Break my SSH.md",
                 "mode": "source",
                 "source": false
               },
@@ -194,23 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48bb30c4fdfce2b9",
+  "active": "b634aa3cc191887b",
   "lastOpenFiles": [
-    "Ciberseguridad/Dockerlabs - Trust.md",
-    "Ciberseguridad/Dockerlabs - Break my SSH.md",
+    "Dockerlabs - Trust.md",
+    "Dockerlabs - Break my SSH.md",
     "Untitled.base",
     "Untitled.canvas",
-    "Ciberseguridad/imgs/Pasted image 20251201164905.png",
-    "Ciberseguridad/imgs/Pasted image 20251201164140.png",
-    "Ciberseguridad/imgs/Pasted image 20251201164534.png",
-    "Ciberseguridad/imgs/Pasted image 20251201164357.png",
-    "Ciberseguridad/imgs/Pasted image 20251201164252.png",
-    "Ciberseguridad/imgs/Pasted image 20251201162944.png",
-    "Ciberseguridad/imgs/Pasted image 20251201162835.png",
-    "Ciberseguridad/imgs/Pasted image 20251201161919.png",
-    "Ciberseguridad/imgs",
-    "Ciberseguridad/imgs/Pasted image 20251201162613.png",
-    "Ciberseguridad/imgs/Pasted image 20251201162217.png",
+    "imgs/Pasted image 20251201164905.png",
+    "imgs/Pasted image 20251201164140.png",
+    "imgs/Pasted image 20251201164534.png",
+    "imgs/Pasted image 20251201164357.png",
+    "imgs/Pasted image 20251201164252.png",
+    "imgs/Pasted image 20251201162944.png",
+    "imgs/Pasted image 20251201162835.png",
+    "imgs/Pasted image 20251201161919.png",
+    "imgs",
+    "imgs/Pasted image 20251201162613.png",
+    "imgs/Pasted image 20251201162217.png",
     "Welcome.md",
     "Ciberseguridad"
   ]
