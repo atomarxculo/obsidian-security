@@ -1,4 +1,4 @@
-La IP del contenedor es la 172.18.0.2, la cual te sale según despliega el lab.
+La IP del contenedor es la 172.18.0.2, la cual te sale según se despliega el lab.
 ## Escaneo de puertos
 
 Realizamos el escaneo de puertos:
